@@ -1,0 +1,17 @@
+.form-input{
+    border-radius: 0.5em;
+    color: white;
+}
+
+.form-input select{
+    background-color: rgb(246, 242, 231);
+    border-radius: 0.3em;
+    border: 0;
+}
+
+.form-input input[type="text"] {
+    background-color: rgb(247, 247, 247);
+    border-radius: 0.3em;
+    border: 0;
+}
+
